@@ -1,0 +1,183 @@
+{
+    "bikes": [
+        [
+            {
+              "id": "1",
+              "title": "Sepeda Gunung XTR",
+              "description": "Dirancang untuk medan terjal dan petualangan luar ruangan.",
+              "price": 55000,
+              "thumbnail": "https://source.unsplash.com/featured/?mountainbike"
+            },
+            {
+              "id": "2",
+              "title": "Sepeda Anak BMX",
+              "description": "Cocok untuk anak-anak yang aktif bermain di luar.",
+              "price": 30000,
+              "thumbnail": "https://source.unsplash.com/featured/?kidsbike"
+            },
+            {
+              "id": "3",
+              "title": "Sepeda Balap Turbo",
+              "description": "Untuk kecepatan tinggi dan performa maksimal.",
+              "price": 70000,
+              "thumbnail": "https://source.unsplash.com/featured/?racingbike"
+            },
+            {
+              "id": "4",
+              "title": "Sepeda Lipat Mini",
+              "description": "Kompak dan mudah dibawa ke mana-mana.",
+              "price": 40000,
+              "thumbnail": "https://source.unsplash.com/featured/?foldingbike"
+            },
+            {
+              "id": "5",
+              "title": "Sepeda Cruiser Retro",
+              "description": "Desain klasik dengan kenyamanan maksimal.",
+              "price": 45000,
+              "thumbnail": "https://source.unsplash.com/featured/?retro+bicycle"
+            },
+            {
+              "id": "6",
+              "title": "Sepeda Listrik EcoRide",
+              "description": "Hemat energi dan ramah lingkungan.",
+              "price": 80000,
+              "thumbnail": "https://source.unsplash.com/featured/?electric+bike"
+            },
+            {
+              "id": "7",
+              "title": "Sepeda Touring",
+              "description": "Ideal untuk perjalanan jauh dan touring.",
+              "price": 60000,
+              "thumbnail": "https://source.unsplash.com/featured/?touring+bike"
+            },
+            {
+              "id": "8",
+              "title": "Sepeda Hybrid Sport",
+              "description": "Gabungan kenyamanan dan kecepatan.",
+              "price": 52000,
+              "thumbnail": "https://source.unsplash.com/featured/?hybrid+bicycle"
+            },
+            {
+              "id": "9",
+              "title": "Sepeda BMX Pro",
+              "description": "Untuk aksi dan atraksi ekstrem.",
+              "price": 45000,
+              "thumbnail": "https://source.unsplash.com/featured/?bmx"
+            },
+            {
+              "id": "10",
+              "title": "Sepeda Fixie Urban",
+              "description": "Gaya urban dengan kecepatan tinggi.",
+              "price": 48000,
+              "thumbnail": "https://source.unsplash.com/featured/?fixie+bike"
+            },
+            {
+              "id": "11",
+              "title": "Sepeda Anak Unicorn",
+              "description": "Desain lucu dan menarik untuk anak perempuan.",
+              "price": 32000,
+              "thumbnail": "https://source.unsplash.com/featured/?unicorn+bike"
+            },
+            {
+              "id": "12",
+              "title": "Sepeda Anak Polisi",
+              "description": "Untuk anak yang suka petualangan.",
+              "price": 31000,
+              "thumbnail": "https://source.unsplash.com/featured/?kids+police+bike"
+            },
+            {
+              "id": "13",
+              "title": "Sepeda Gunung Pro Trail",
+              "description": "Dilengkapi suspensi penuh untuk jalur ekstrem.",
+              "price": 58000,
+              "thumbnail": "https://source.unsplash.com/featured/?mountain+trail+bike"
+            },
+            {
+              "id": "14",
+              "title": "Sepeda Balap Aero",
+              "description": "Aerodinamis dengan rangka ringan.",
+              "price": 75000,
+              "thumbnail": "https://source.unsplash.com/featured/?aero+road+bike"
+            },
+            {
+              "id": "15",
+              "title": "Sepeda Lipat Traveler",
+              "description": "Pas untuk traveler dan penyuka mobilitas tinggi.",
+              "price": 46000,
+              "thumbnail": "https://source.unsplash.com/featured/?traveler+folding+bike"
+            },
+            {
+              "id": "16",
+              "title": "Sepeda Kota Eco",
+              "description": "Nyaman untuk digunakan di area perkotaan.",
+              "price": 42000,
+              "thumbnail": "https://source.unsplash.com/featured/?city+bike"
+            },
+            {
+              "id": "17",
+              "title": "Sepeda Gunung Anak",
+              "description": "Ringan dan tangguh untuk anak petualang.",
+              "price": 35000,
+              "thumbnail": "https://source.unsplash.com/featured/?child+mountain+bike"
+            },
+            {
+              "id": "18",
+              "title": "Sepeda Balap Junior",
+              "description": "Untuk anak yang mulai berlatih balapan.",
+              "price": 36000,
+              "thumbnail": "https://source.unsplash.com/featured/?junior+road+bike"
+            },
+            {
+              "id": "19",
+              "title": "Sepeda BMX Anak",
+              "description": "Untuk lompatan dan atraksi ringan.",
+              "price": 34000,
+              "thumbnail": "https://source.unsplash.com/featured/?bmx+kids"
+            },
+            {
+              "id": "20",
+              "title": "Sepeda Tiga Roda",
+              "description": "Stabil dan aman untuk balita.",
+              "price": 25000,
+              "thumbnail": "https://source.unsplash.com/featured/?tricycle"
+            },
+            {
+              "id": "21",
+              "title": "Sepeda Lipat Dewasa",
+              "description": "Mudah dilipat dan disimpan di apartemen.",
+              "price": 47000,
+              "thumbnail": "https://source.unsplash.com/featured/?foldable+bike"
+            },
+            {
+              "id": "22",
+              "title": "Sepeda Listrik Anak",
+              "description": "Sepeda modern untuk anak masa kini.",
+              "price": 52000,
+              "thumbnail": "https://source.unsplash.com/featured/?kids+electric+bike"
+            },
+            {
+              "id": "23",
+              "title": "Sepeda Balap Classic",
+              "description": "Tampilan klasik, performa mantap.",
+              "price": 69000,
+              "thumbnail": "https://source.unsplash.com/featured/?classic+road+bike"
+            },
+            {
+              "id": "24",
+              "title": "Sepeda Trail Dewasa",
+              "description": "Khusus untuk petualangan hutan dan bukit.",
+              "price": 60000,
+              "thumbnail": "https://source.unsplash.com/featured/?forest+bike"
+            },
+            {
+              "id": "25",
+              "title": "Sepeda Cruiser Anak",
+              "description": "Kenyamanan maksimal untuk anak-anak.",
+              "price": 33000,
+              "thumbnail": "https://source.unsplash.com/featured/?kids+cruiser"
+            }
+          ]
+          
+    ]
+  }
+  
